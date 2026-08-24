@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8"/>
@@ -319,7 +319,7 @@ footer span{color:var(--purple-mid);}
       <div class="info-item"><div class="ilabel">Level</div><div class="ivalue">+2 Science</div></div>
       <div class="info-item"><div class="ilabel">Passion</div><div class="ivalue">Design, Coding &amp; Food &#127829;</div></div>
       <div class="info-item"><div class="ilabel">Email</div><div class="ivalue">yanzansamrat@gmail.com</div></div>
-      <div class="info-item"><div class="ilabel">Phone</div><div class="ivalue">9811222518</div></div>
+      <div class="info-item"><div class="ilabel">Phone</div><div class="ivalue">9761484218</div></div>
     </div>
   </div>
 </div>
